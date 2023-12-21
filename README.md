@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pedro Santos</h1>
 <h3 align="center">A passionate Data Analysis and Digital Marketing</h3>
 
-- 🔭 I’m currently working on **Analyse and dat visualisation**
+- 🔭 I’m currently working on **Analyse and data visualisation**
 
 - 🌱 I’m currently learning **Python, Machine Learning**
 
